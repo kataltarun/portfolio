@@ -23,11 +23,11 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Tarun Katal, a creative Full Stack developer, crafting immersive and intuitive web experiences.",
+    "PURRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
   description:
-    "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
+    "FK you , ur mum, nd evrythn else............................................................",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/resume.pdfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
 };
 
 export const PROJECTS = [
@@ -72,8 +72,8 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I am a dedicated frontend developer with a passion for building modern web applications that are both functional and aesthetically pleasing. Over the years, I have worked on numerous projects ranging from single-page applications to complex multi-tiered systems, always ensuring high performance and seamless user experiences.",
-    "I specialize in using technologies like React, Next.js, and Tailwind CSS to create responsive and scalable interfaces. My focus is on writing clean, maintainable code while collaborating with cross-functional teams to deliver projects that meet both business goals and user needs. I thrive in environments that challenge me to continuously learn and grow.",
+    "WHATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+    "DAAAAAAAAAAAAAAAAAA FOOOOKIN HELLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
   ],
 };
 
@@ -115,50 +115,50 @@ export const TESTIMONIALS = [
     name: "Sarah Johnson",
     title: "Frontend Engineer, Google",
     feedback:
-      "Jason is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person1,
   },
   {
     name: "Michael Anderson",
     title: "Product Manager, Facebook",
     feedback:
-      "Jason was instrumental in driving our product forward. His keen eye for detail and ability to work cross-functionally made him an invaluable asset. He consistently delivers top-quality work and elevates the projects he's involved in. He’s a natural leader, and his expertise in frontend technologies is outstanding.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person2,
   },
   {
     name: "Emily Davis",
     title: "Lead Designer, Amazon",
     feedback:
-      "Working with Jason has been a phenomenal experience. His deep understanding of both design and development allowed us to push the boundaries of what we could achieve. His creative problem-solving abilities and commitment to quality are second to none.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person3,
   },
   {
     name: "David Lee",
     title: "Senior Developer, Microsoft",
     feedback:
-      "Jason's contribution to our team was nothing short of amazing. His technical knowledge, combined with his passion for creating user-friendly and scalable applications, made a significant impact on the success of our product. He’s always willing to go the extra mile to ensure the best outcome.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person4,
   },
   {
     name: "Laura Martinez",
     title: "CTO, Shopify",
     feedback:
-      "Jason brought a level of expertise and professionalism to our team that was greatly appreciated. His focus on scalability and clean code ensured that our platform could handle large traffic loads without compromising performance. His work ethic and collaboration skills are impeccable.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person5,
   },
   {
     name: "Chris Brown",
     title: "Co-founder, Stripe",
     feedback:
-      "Jason combines technical proficiency with excellent leadership skills. He was a key part of our success, helping us build a robust and scalable product. His attention to detail and ability to manage teams made him an invaluable part of the company.",
+      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
     image: person6,
   },
 ];
 
 export const CONTACT_CONTENT = {
-  headline: "LET'S WORK ON SOMETHING GREAT",
+  headline: "LET'S WORK ON SOMETHING GREAT or maybe lets not",
   description:
-    "I'm excited to collaborate on projects that push boundaries and create meaningful impact. Let's build something innovative and exceptional together.",
+    "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
   socialLinks: [
     {
       platform: "Twitter",
