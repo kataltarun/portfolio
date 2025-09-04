@@ -21,7 +21,7 @@ export const LINKS = [
 ];
 
 export const HERO_CONTENT = {
-  greeting: "Hey there! 🖐️",
+  greeting: "huh?",
   introduction:
     "PURRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
   description:
@@ -156,7 +156,7 @@ export const TESTIMONIALS = [
 ];
 
 export const CONTACT_CONTENT = {
-  headline: "LET'S WORK ON SOMETHING GREAT or maybe lets not",
+  headline: "get in touch",
   description:
     "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
   socialLinks: [
