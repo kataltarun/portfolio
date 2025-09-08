@@ -1,3 +1,1 @@
-# Live Link - https://www.tarunkatal.com/
-
---used Framer-motion heavily
+https://www.tarunkatal.com/
